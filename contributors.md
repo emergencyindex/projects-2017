@@ -52,7 +52,7 @@ Arlander, Annette [346-347]
 
 Armenta, Ash [022-023]
 
-Arsem, Marilyn [014-015], [499-500], [508-509]
+Arsem, Marilyn [014-015], [498-499], [508-509]
 
 Artifacts [310-311]
 
@@ -133,7 +133,7 @@ Botez, Oana [432-433]
 
 Bottomley, Mo [344-345]
 
-Bouboushian, Lorene [112-123]
+Bouboushian, Lorene [112-113]
 
 Bouger, Cristiane [072-073]
 
@@ -192,7 +192,7 @@ Campbell, Peter A [008-009]
 
 Cañeque, Camila [216-217]
 
-Canonge, Hector [140-141], [176-177], [294-495]
+Canonge, Hector [140-141], [176-177], [294-295]
 
 Carcedo, Clara M [186-187]
 
@@ -202,7 +202,7 @@ Carpenter, Laurel Jay [376-377]
 
 Carranza, Mariel [294-295]
 
-Castellanos, IV 086-87, [249-250], [336-337], [478-479]
+Castellanos, IV [086-87], [248-249], [336-337], [478-479]
 
 Cathy and Company [364-365]
 
@@ -355,7 +355,7 @@ Falcon, Daniela [468-469]
 
 Fallon, Courtney Frances [012-013]
 
-Feminist Art Group [249-250], [478-479]
+Feminist Art Group [248-249], [478-479]
 
 Fierce Bellies [258-259]
 
@@ -515,7 +515,7 @@ Hoffer, Aaron Keith [300-301]
 
 Högström, Erik [298-299]
 
-Homma, Shizu [249-250], [260-262]
+Homma, Shizu [248-249], [260-261]
 
 Hopkins, Cynthia [432-433]
 
@@ -529,7 +529,7 @@ Howard, Joanne [432-433]
 
 Hughes, Tom [300-301]
 
-Hunt, Amanda [086-087], [249-250], [336-337], [478-479]
+Hunt, Amanda [086-087], [248-249], [336-337], [478-479]
 
 Hunt, Cynthia Post [520-521]
 
@@ -552,7 +552,7 @@ Ingelstrom, Alison [062-063]
 
 Intuitive Art Project [298-299]
 
-Isabelle, Nina [242-243], [249-250]
+Isabelle, Nina [242-243], [248-249]
 
 Ivanov, Aleksandr [408-409]
 
@@ -567,7 +567,7 @@ Jason, Christine [302-303]
 
 Jendrzejewski, Rachel [256-257]
 
-Jernquist, Honey [016-017], [018-019], [249-250]
+Jernquist, Honey [016-017], [018-019], [248-249]
 
 Jiaxin, Miao [216-217], [248-249]
 
@@ -925,7 +925,7 @@ Parson, Annie-B [432-433]
 
 Pasare, Liviu [292-293]
 
-Patterson, Margaret [302-202]
+Patterson, Margaret [302-303]
 
 Patterson, Pam [310-311]
 
@@ -1017,7 +1017,7 @@ Riabova, Polina [288-289], [262-263]
 
 Riccio, Thomas [166-167]
 
-Rivas, Stephanie [118-199]
+Rivas, Stephanie [118-119]
 
 Rivera, Emma [418-419]
 
@@ -1213,7 +1213,7 @@ Troy, Risa [098-099]
 
 Turro, Angie [008-009]
 
-Tyler, Evan [134-145]
+Tyler, Evan [134-135]
 
 Tzu-An, Ko [372-373]
 
