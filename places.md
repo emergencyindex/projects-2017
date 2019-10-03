@@ -309,7 +309,7 @@ title: 'Index 2017: Places'
     * Redmond [264]
     * Seattle  [004], [170], [259], [264], [506]
     * Walla Walla  [152]
-  * **Washington D.C** [054], [076], [202], [331]
+  * **Washington D.C.** [054], [076], [202], [331]
   * **Wisconsin**
     * Eau Claire  [084], [362]
     * Madison  [318]
