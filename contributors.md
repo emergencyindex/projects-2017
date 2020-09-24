@@ -1328,13 +1328,5 @@ Ziúr [396-397]
 
 Zucker, Ben [420-421]
 
-
 {%- assign projects = site.projects | where: "volume", "2017" -%}
 {% include project_links.md projects=projects %}
-
-
-
-
-
-
-
